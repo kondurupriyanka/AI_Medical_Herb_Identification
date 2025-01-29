@@ -1,6 +1,8 @@
 # AI_Medical_Herb_Identification
 
+
 # Project Title: 🌿 Medicinal Plant Identification Using Image Processing & Machine Learning 🤖
+
 
 # Description:
 
@@ -13,7 +15,8 @@ Our solution aims to make the identification process simple, fast, and reliable.
 🌱 Accurate Plant Identification: The system uses powerful image processing techniques to analyze and classify plant images based on their unique traits.
 🧠 Machine Learning Algorithms: We’ve incorporated multiple ML algorithms to continuously improve the accuracy of plant identification.
 📊 Data-Driven Approach: Our model is built on a large dataset of plant images and keeps improving with new data.
-Technologies Used:
+
+# Technologies Used:
 
 Python 🐍
 OpenCV 📸 (for image processing)
